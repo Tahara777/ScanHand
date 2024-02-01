@@ -10,6 +10,7 @@ M5Canvas MaskSprite(&Sprite);
 
 MFRC522 mfrc522(0x28); // MFRC522のインスタンスを作成
 
+
 int nocard = 10;
 
 void setup()
